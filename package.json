@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fieldproc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Field identifiers and proc tokens for idempotent workflows.",
+  "bin": {
+    "fieldproc": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fieldproc.git"
+  },
+  "homepage": "https://theworker02.github.io/fieldproc/",
+  "keywords": [
+    "field",
+    "proc",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
